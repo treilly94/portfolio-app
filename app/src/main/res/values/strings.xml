@@ -5,4 +5,5 @@
     <string name="button_submit">Submit</string>
     <string name="message_date">Date yyyy-mm-dd</string>
     <string name="message_duration">Duration</string>
+    <string name="message_tech">Tech</string>
 </resources>
