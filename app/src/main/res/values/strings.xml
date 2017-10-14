@@ -3,4 +3,6 @@
     <string name="action_settings">Settings</string>
     <string name="message_project">Project</string>
     <string name="button_submit">Submit</string>
+    <string name="message_date">Date yyyy-mm-dd</string>
+    <string name="message_duration">Duration</string>
 </resources>
